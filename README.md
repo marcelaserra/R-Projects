@@ -11,6 +11,8 @@ Para tratamento de chatbots:
 
 -> 3 mil perguntas (29.258 frases no dataset, sendo que cerca de 1,4 mil foram categorizadas como respostas para uma questão correspondente).
 
+Fonte: https://simple.nama.ai/post/uma-lista-com-15-datasets-interessantes-que-vimos-por-ai
+
 Alguns passos para o Data Wrangling:
   Remoção de features indesejadas;
   Remoção de metacaracteres;
